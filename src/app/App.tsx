@@ -408,7 +408,7 @@ export default function App() {
             <FadeIn delay={100}>
               <div className="space-y-4 text-[#475569] leading-relaxed">
                 <p>
-                  I am <strong className="text-[#111827]">J. Kalaikannan</strong>, a passionate Computer Science Engineering student at{" "}
+                  I am <strong className="text-[#111827]">J. Kalaikannan</strong>, a passionate <strong className="text-[#111827]">B.Tech(Information Technology)</strong> student at{" "}
                   <strong className="text-[#111827]">Nandha Engineering College (Autonomous), Erode</strong> (2024–2028).
                 </p>
                 <p>
