@@ -331,7 +331,7 @@ export default function App() {
             </FadeIn>
             <FadeIn delay={200}>
               <div className="text-xl sm:text-2xl font-semibold mb-4 h-8">
-                <TypedText words={["Frontend Developer", "Full Stack Developer", "CS Engineering Student"]} />
+                <TypedText words={["Frontend Developer", "Full Stack Developer", "IT Engineering Student"]} />
               </div>
             </FadeIn>
             <FadeIn delay={300}>
